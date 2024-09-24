@@ -24,8 +24,15 @@ Users are also able to sort the displayed tickets in two ways:
 **Priority levels: (This values you will receive in the api)**
 
 4 - Urgent
+
 3 - High
+
 2 - Medium
+
 1 - Low
+
 0 - No priority
+
+
+Additionally, the application saves the user's view state even after page reload.
 
